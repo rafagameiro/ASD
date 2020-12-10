@@ -1,0 +1,1 @@
+config.properties FOR THE LOCAL RUN SHOULD BE PLACED IN THIS DIR AND MUST HAVE interface=eth0 FIELD
